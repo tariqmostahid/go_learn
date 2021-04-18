@@ -1,3 +1,9 @@
+### Learn GO
+
+## For running go file
+
+```go run hello.go```
+
 ## For running tests
 
 ```go test```
