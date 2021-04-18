@@ -1,15 +1,16 @@
-### Learn GO
+# Learn GO
 
-## For running go file
+##3 For running go file
 
 ```go run hello.go```
 
-## For running tests
+##3 For running tests
 
 ```go test```
 
-## go doc
+##3 go doc
 to install
 ```go get golang.org/x/tools/cmd/godoc```
+
 to serve 
 ```godoc -http :8000```
